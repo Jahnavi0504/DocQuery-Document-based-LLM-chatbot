@@ -1,6 +1,6 @@
 # DocQuery-Document-based-LLM-chatbot
 
-<img width="957" alt="image" src="https://github.com/Jahnavi0504/DocQuery-Document-based-LLM-chatbot/assets/131334203/0189b26f-1850-44ec-bd24-c4ed38e1e69b">
+<img width="650" alt="image" src="https://github.com/Jahnavi0504/DocQuery-Document-based-LLM-chatbot/assets/131334203/0189b26f-1850-44ec-bd24-c4ed38e1e69b">
 
 **DocQuery: Ask Questions About Your PDF Documents**
 DocQuery is a Streamlit application that allows you to upload PDF documents and ask questions about their content. It uses the power of large language models and vector embeddings to provide accurate and relevant answers based on the information in your documents.
